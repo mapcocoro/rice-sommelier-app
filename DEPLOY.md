@@ -17,11 +17,7 @@
    - Install Command: `npm install`
 
 ### 3. 環境変数の設定
-1. プロジェクト設定 → Environment Variables
-2. 以下の環境変数を追加：
-   ```
-   GEMINI_API_KEY=your_gemini_api_key_here
-   ```
+現在このアプリケーションは外部APIを使用していないため、環境変数の設定は不要です。
 
 ### 4. デプロイ実行
 「Deploy」ボタンをクリックしてデプロイを開始
