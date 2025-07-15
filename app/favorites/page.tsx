@@ -34,3 +34,4 @@ export default function FavoritesPage() {
     </main>
   )
 }
+// キャッシュクリアのための再デプロイ
