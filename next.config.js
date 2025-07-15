@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  // 他に設定があれば、それは残してください
+  // ここに他の設定（reactStrictMode: trueなど）があってもOK
 };
 
 module.exports = nextConfig;
