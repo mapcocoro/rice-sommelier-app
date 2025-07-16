@@ -17,7 +17,7 @@ export default function Home() {
             </div>
           </div>
           <p className="text-sm sm:text-base md:text-lg text-gray-600 font-sans">
-            かんたん質問に答えて あなたの好みにぴったりのお米を見つけましょう！
+            かんたん質問に答えて、あなたの好みにぴったりのお米を見つけましょう！
           </p>
         </header>
 
